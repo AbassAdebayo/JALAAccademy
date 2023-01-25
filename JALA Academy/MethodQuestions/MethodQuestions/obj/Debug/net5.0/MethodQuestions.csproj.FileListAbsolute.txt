@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\bin\Debug\net5.0\MethodQuestions.exe
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\bin\Debug\net5.0\MethodQuestions.deps.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\bin\Debug\net5.0\MethodQuestions.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\bin\Debug\net5.0\MethodQuestions.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\bin\Debug\net5.0\MethodQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\bin\Debug\net5.0\MethodQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\MethodQuestions.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\MethodQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\MethodQuestions.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\MethodQuestions.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\MethodQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\MethodQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\refint\MethodQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\MethodQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\MethodQuestions.genruntimeconfig.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\MethodQuestions\MethodQuestions\obj\Debug\net5.0\ref\MethodQuestions.dll
