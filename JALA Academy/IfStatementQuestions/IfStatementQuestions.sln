@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatementQuestions", "IfStatementQuestions\IfStatementQuestions.csproj", "{71F5B050-B614-4875-A3A7-0A4033BCD579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F5B050-B614-4875-A3A7-0A4033BCD579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F5B050-B614-4875-A3A7-0A4033BCD579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F5B050-B614-4875-A3A7-0A4033BCD579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F5B050-B614-4875-A3A7-0A4033BCD579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

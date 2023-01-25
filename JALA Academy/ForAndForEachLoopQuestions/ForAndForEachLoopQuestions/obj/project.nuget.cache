@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8w4RrRBRnu7O7TPH1Zr4+Z5g6+EGycawqRNqxnSjPtrTEvD3ygi9LTVkStkQVRqxwRxa5LBZvHnIcH6QJwiAYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dejik Concepts\\Desktop\\JALA\\JALA Academy\\ForAndForEachLoopQuestions\\ForAndForEachLoopQuestions\\ForAndForEachLoopQuestions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dejik Concepts\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

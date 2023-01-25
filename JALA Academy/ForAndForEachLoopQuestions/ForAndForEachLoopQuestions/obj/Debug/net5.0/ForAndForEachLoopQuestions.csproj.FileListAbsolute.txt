@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\bin\Debug\net5.0\ForAndForEachLoopQuestions.exe
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\bin\Debug\net5.0\ForAndForEachLoopQuestions.deps.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\bin\Debug\net5.0\ForAndForEachLoopQuestions.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\bin\Debug\net5.0\ForAndForEachLoopQuestions.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\bin\Debug\net5.0\ForAndForEachLoopQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\bin\Debug\net5.0\ForAndForEachLoopQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ForAndForEachLoopQuestions.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ForAndForEachLoopQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ForAndForEachLoopQuestions.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ForAndForEachLoopQuestions.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ForAndForEachLoopQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ForAndForEachLoopQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\refint\ForAndForEachLoopQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ForAndForEachLoopQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ForAndForEachLoopQuestions.genruntimeconfig.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\ForAndForEachLoopQuestions\ForAndForEachLoopQuestions\obj\Debug\net5.0\ref\ForAndForEachLoopQuestions.dll

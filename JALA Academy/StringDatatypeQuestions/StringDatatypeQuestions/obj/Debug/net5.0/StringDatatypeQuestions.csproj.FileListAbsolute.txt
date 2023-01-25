@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\bin\Debug\net5.0\StringDatatypeQuestions.exe
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\bin\Debug\net5.0\StringDatatypeQuestions.deps.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\bin\Debug\net5.0\StringDatatypeQuestions.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\bin\Debug\net5.0\StringDatatypeQuestions.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\bin\Debug\net5.0\StringDatatypeQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\bin\Debug\net5.0\StringDatatypeQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\StringDatatypeQuestions.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\StringDatatypeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\StringDatatypeQuestions.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\StringDatatypeQuestions.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\StringDatatypeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\StringDatatypeQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\refint\StringDatatypeQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\StringDatatypeQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\StringDatatypeQuestions.genruntimeconfig.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\StringDatatypeQuestions\StringDatatypeQuestions\obj\Debug\net5.0\ref\StringDatatypeQuestions.dll

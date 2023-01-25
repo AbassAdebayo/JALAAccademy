@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\net5.0\BuiltInDataTypes.exe
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\net5.0\BuiltInDataTypes.deps.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\net5.0\BuiltInDataTypes.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\net5.0\BuiltInDataTypes.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\net5.0\BuiltInDataTypes.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\bin\Debug\net5.0\BuiltInDataTypes.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\BuiltInDataTypes.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\BuiltInDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\BuiltInDataTypes.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\BuiltInDataTypes.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\BuiltInDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\BuiltInDataTypes.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\refint\BuiltInDataTypes.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\BuiltInDataTypes.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\BuiltInDataTypes.genruntimeconfig.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\BuiltInDataTypes\BuiltInDataTypes\obj\Debug\net5.0\ref\BuiltInDataTypes.dll

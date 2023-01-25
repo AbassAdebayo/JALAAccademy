@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\bin\Debug\net5.0\OperatorQuestions.exe
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\bin\Debug\net5.0\OperatorQuestions.deps.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\bin\Debug\net5.0\OperatorQuestions.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\bin\Debug\net5.0\OperatorQuestions.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\bin\Debug\net5.0\OperatorQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\bin\Debug\net5.0\OperatorQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\OperatorQuestions.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\OperatorQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\OperatorQuestions.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\OperatorQuestions.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\OperatorQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\OperatorQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\refint\OperatorQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\OperatorQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\OperatorQuestions.genruntimeconfig.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\OperatorQuestions\OperatorQuestions\obj\Debug\net5.0\ref\OperatorQuestions.dll

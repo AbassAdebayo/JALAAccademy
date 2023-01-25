@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\bin\Debug\net5.0\IfStatementQuestions.exe
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\bin\Debug\net5.0\IfStatementQuestions.deps.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\bin\Debug\net5.0\IfStatementQuestions.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\bin\Debug\net5.0\IfStatementQuestions.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\bin\Debug\net5.0\IfStatementQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\bin\Debug\net5.0\IfStatementQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\IfStatementQuestions.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\IfStatementQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\IfStatementQuestions.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\IfStatementQuestions.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\IfStatementQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\IfStatementQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\refint\IfStatementQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\IfStatementQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\IfStatementQuestions.genruntimeconfig.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\IfStatementQuestions\IfStatementQuestions\obj\Debug\net5.0\ref\IfStatementQuestions.dll

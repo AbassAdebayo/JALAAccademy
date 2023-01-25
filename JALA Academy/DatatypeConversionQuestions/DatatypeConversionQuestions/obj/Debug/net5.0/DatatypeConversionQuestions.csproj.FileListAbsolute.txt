@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\bin\Debug\net5.0\DatatypeConversionQuestions.exe
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\bin\Debug\net5.0\DatatypeConversionQuestions.deps.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\bin\Debug\net5.0\DatatypeConversionQuestions.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\bin\Debug\net5.0\DatatypeConversionQuestions.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\bin\Debug\net5.0\DatatypeConversionQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\bin\Debug\net5.0\DatatypeConversionQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\DatatypeConversionQuestions.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\DatatypeConversionQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\DatatypeConversionQuestions.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\DatatypeConversionQuestions.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\DatatypeConversionQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\DatatypeConversionQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\refint\DatatypeConversionQuestions.dll
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\DatatypeConversionQuestions.pdb
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\DatatypeConversionQuestions.genruntimeconfig.cache
+C:\Users\Dejik Concepts\Desktop\JALA\JALA Academy\DatatypeConversionQuestions\DatatypeConversionQuestions\obj\Debug\net5.0\ref\DatatypeConversionQuestions.dll
