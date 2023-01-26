@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SGKT6HSgQvmmENU38JMfgZA23/q1xYlcNYFWW+YIsAYdALEQ9L0JqaN/Q3fgG693T1MUjGvlpTFhzkhFyZ3sqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dejik Concepts\\Desktop\\JALA\\JALA Academy\\IntroductionToClass\\Question5\\Question5\\Question5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dejik Concepts\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
