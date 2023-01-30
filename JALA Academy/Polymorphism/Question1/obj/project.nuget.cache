@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1/tcblYej7yjP5b7CRmTi3jkieHnYNpMo3iI7nSk6LNztQHQVq7DQYQbFPSC3UmsrWJx+UDM+2THqxqQ7tb1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dejik Concepts\\Desktop\\JALA\\JALA Academy\\Polymorphism\\Question1\\Question1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dejik Concepts\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
